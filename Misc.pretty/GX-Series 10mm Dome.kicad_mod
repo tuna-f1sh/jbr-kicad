@@ -42,7 +42,7 @@
       bc833a8d-c8bf-41db-b862-b3cafdff889c
     )
   )
-  (model ":USRMOD:tuna-f1sh/jbr-kicad/models/GX10700.step"
+  (model "/Users/john/KiCad/kicad_footprints/tuna-f1sh/jbr-kicad/models/GX10700.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -45))
