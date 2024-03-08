@@ -1,0 +1,116 @@
+(footprint "nixiemisc-KEYSTONE2"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "c39514a1-cdb4-4a0b-b567-42bf9a22717b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b88145e2-54e7-4a05-8b30-e978665b8257")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "598dd3f6-3419-4bd6-a748-49a492e4b34c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "63bee1a2-2a93-46ba-8d2d-2f695b831878")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f02fe71a-2094-4c73-ad0e-ad297c7c3e01")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(fp_line
+		(start -3.9624 -5.1054)
+		(end -3.9624 20.6248)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "de7c40d2-aded-4590-a649-960161217fe2")
+	)
+	(fp_line
+		(start -3.9624 20.6248)
+		(end 3.9624 20.6248)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "62162089-b846-4e9b-9924-a64358e2d622")
+	)
+	(fp_line
+		(start 3.9624 -5.1054)
+		(end -3.9624 -5.1054)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "89a42266-c566-497a-9646-79ac36e88461")
+	)
+	(fp_line
+		(start 3.9624 20.6248)
+		(end 3.9624 -5.1054)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "0d5345fd-c49e-4ac8-83d1-c69486a2e7d2")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -1.8288)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill none)
+		(layer "Dwgs.User")
+		(uuid "eb138802-29e9-4078-9180-2783c652d1b8")
+	)
+)

@@ -1,0 +1,116 @@
+(footprint "nixiemisc-KEYSTONE1"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "eec1281c-b406-464f-9727-869b63ac538e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "714bb375-54fd-4635-a973-f9a196a1408b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6f101408-17ae-4b28-b844-92213a3407de")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "279c44ba-72d3-453f-b48b-23e86a651ec4")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "410c220d-5e32-416a-add1-8cb681a9df0f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(fp_line
+		(start -3.9624 -8.1534)
+		(end -3.9624 4.2164)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "685d5980-1e0c-45b7-bd28-d10c2f0fd939")
+	)
+	(fp_line
+		(start -3.9624 4.2164)
+		(end 3.9624 4.2164)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "4b934e8c-d8ff-45eb-a029-9028b2b63247")
+	)
+	(fp_line
+		(start 3.9624 -8.1534)
+		(end -3.9624 -8.1534)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "6438b123-60a4-463f-8f60-07b3e4af05cf")
+	)
+	(fp_line
+		(start 3.9624 4.2164)
+		(end 3.9624 -8.1534)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "44c8fed6-f793-4686-919d-a749d5f05c5f")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 -1.8288)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill none)
+		(layer "Dwgs.User")
+		(uuid "d02f2dcd-0777-4d43-ba33-a6a922534678")
+	)
+)
