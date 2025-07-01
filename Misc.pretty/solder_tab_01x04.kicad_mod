@@ -1,0 +1,78 @@
+(footprint "solder_tab_01x04"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "b3aab9d7-2250-4e24-bd1c-b94509caf982")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "solder_tab_01x04"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "232542bb-83ab-47ac-9fa4-526e2ec46bf1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "500a7bd4-d46d-4dcc-8e7d-756463cff8b9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9e46e1d7-b1b2-483f-85e0-b9bbbfce2fe3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(pad "1" connect oval
+		(at 3.75 0)
+		(size 1.6 6)
+		(layers "F.Cu" "F.Mask")
+		(uuid "f46dd719-536b-43ff-9e0d-c3cf7dd52f8e")
+	)
+	(pad "2" connect oval
+		(at 1.25 0)
+		(size 1.6 6)
+		(layers "F.Cu" "F.Mask")
+		(uuid "82d88ad0-2c0c-44ee-9698-7fa61fcea2ea")
+	)
+	(pad "3" connect oval
+		(at -1.25 0)
+		(size 1.6 6)
+		(layers "F.Cu" "F.Mask")
+		(uuid "d76f0ba5-7ec7-49d7-bb3a-30426d81de5b")
+	)
+	(pad "4" connect oval
+		(at -3.75 0)
+		(size 1.6 6)
+		(layers "F.Cu" "F.Mask")
+		(uuid "5e65bc6f-7450-4036-a602-81a55eaadfd9")
+	)
+	(embedded_fonts no)
+)
